@@ -1,5 +1,5 @@
-Para rodara a aplicação fazer os seguintes passo:
+Para rodara a aplicação fazer o seguinte passo:
 
-1) docker network create rede-ngnix-node
+1) docker-compose up -d
 
-2) docker compose up --build
+2) caso queira add nomes para aparecer embaixo, usar o endpoint http://localhost:8080/add/{nome}
