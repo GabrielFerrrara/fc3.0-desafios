@@ -1,4 +1,4 @@
-Para rodara a aplicação fazer o seguinte passo:
+Para rodara a aplicação fazer os seguintes passo:
 
 1) docker network create rede-ngnix-node
 
